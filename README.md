@@ -11,7 +11,7 @@ Para este video usaremos la siguiente herramienta:
 ## ⚫ Pasos a realizar 
 
 1. Primer paso: Dirigirnos al `Hub` de `QGIS`.
-[![](img/hub_menu.png)](https://plugins.qgis.org)      
+[![](img/hub_menu.png)](https://hub.qgis.org/)      
 
 2. Segundo paso: Obtener el recurso de interés.
 3. Tercer paso: Instalar el recurso dentro `QGIS`.
